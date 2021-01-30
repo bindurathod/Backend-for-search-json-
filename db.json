@@ -1,0 +1,54 @@
+{
+  "Searchbox": [
+    {
+      "id": 1,
+      "cuisineType": "Indian",
+      "mealType": "Lunch Meal",
+      "dishType": "Salad Dish",
+      "health": "Good Health",
+      "calories": "200 calaries",
+      "time": "12AM Time",
+      "diet": "Ultra-low Diet"
+    },
+    {
+      "id": 2,
+      "cuisineType": "French",
+      "mealType": "Breakfast Meal",
+      "dishType": "Bread Dish",
+      "health": "Good Health",
+      "calories": "200 Calories",
+      "time": "2pm Time",
+      "diet": "Natural Diet"
+    },
+    {
+      "id": 3,
+      "cuisineType": "Japanese",
+      "mealType": "Lunch Meal",
+      "dishType": "curry Dish",
+      "health": "Good Health",
+      "calories": "200 Calaries",
+      "time": "3AM Time",
+      "diet": "Elemental Diet"
+    },
+    {
+      "id": 4,
+      "cuisineType": "Italian",
+      "mealType": "Dinner Meal",
+      "dishType": "Soup Dish",
+      "health": "Good health",
+      "calories": "200 calaries",
+      "time": "11AM Time",
+      "diet": "Low-Carb"
+    },
+    {
+      "id": 5,
+      "cuisineType": "Chinese",
+      "mealType": "SnacksTime Meal",
+      "dishType": "Roast dish",
+      "health": "Good Health",
+      "calories": "200 Calaries",
+      "time": "5PM Time",
+      "diet": "Paleo Diet "
+    }
+  ]
+}
